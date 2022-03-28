@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>academic writing on Austin Herrick</title>
+    <link>https://AHerrick76.github.io/tags/academic-writing/</link>
+    <description>Recent content in academic writing on Austin Herrick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Austin Herrick</copyright>
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://AHerrick76.github.io/tags/academic-writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://AHerrick76.github.io/publications/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://AHerrick76.github.io/publications/</guid>
+      <description>Below are publications I authored, coauthored, or to which I contributed key research. Research contributions are noted in their own section.Published or Working Papers
+ Berkovich, Costa, Herrick, (2022) “Immigration and the Macroeconomy”. PWBM Working Paper Series. Available here Churchill, Biderman, Herrick, (2020) “Magic: The Gathering is Turing Complete”. The Proceedings of the 10th International Conference on Fun with Algorithms. Available here  Penn Wharton Budget Model, Briefs</description>
+    </item>
+    
+  </channel>
+</rss>
